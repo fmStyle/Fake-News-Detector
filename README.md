@@ -56,3 +56,8 @@ python transformer/transformer.py
 ```
 
 Adjust commands as needed — scripts have small entry points rather than a polished CLI.
+
+<img width="963" height="786" alt="Captura de pantalla 2026-02-03 022336" src="https://github.com/user-attachments/assets/5a7a6cde-bcb4-46e3-b6ae-f0b5749f32f5" />
+
+
+
