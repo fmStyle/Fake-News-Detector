@@ -1,0 +1,5 @@
+pip install transformers datasets evaluate accelerate
+
+pip install huggingface_hub==0.36.0
+
+pip install tf-keras
